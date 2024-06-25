@@ -1,0 +1,29 @@
+2024-06-26 00:06:145 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:951 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (0bb8a5921ec90e1d72bbcc2b26bedb3b)] -> link text: Desktops]
+2024-06-26 00:06:283 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (0bb8a5921ec90e1d72bbcc2b26bedb3b)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:412 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:390 INFO  DesktopsPage :312 - Clicking on £Pound Sterling on top of page [[ChromeDriver: chrome on windows (9de741535a4fe4af343f09d6bb097162)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-06-26 00:06:533 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (9de741535a4fe4af343f09d6bb097162)] -> link text: Desktops]
+2024-06-26 00:06:115 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (9de741535a4fe4af343f09d6bb097162)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:992 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:610 INFO  DesktopsPage :312 - Clicking on £Pound Sterling on top of page [[ChromeDriver: chrome on windows (8c22f68d8b518aa6780aff1165bc6f91)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-06-26 00:06:754 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (8c22f68d8b518aa6780aff1165bc6f91)] -> link text: Desktops]
+2024-06-26 00:06:674 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (8c22f68d8b518aa6780aff1165bc6f91)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:403 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:328 INFO  DesktopsPage :312 - Clicking on £Pound Sterling on top of page [[ChromeDriver: chrome on windows (9710b912e0415754121635641000e05d)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-06-26 00:06:481 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (9710b912e0415754121635641000e05d)] -> link text: Desktops]
+2024-06-26 00:06:184 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (9710b912e0415754121635641000e05d)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:70 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:307 INFO  DesktopsPage :312 - Clicking on £Pound Sterling on top of page [[ChromeDriver: chrome on windows (d5b21a4745a8403561aa2bd7f71b7194)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-06-26 00:06:455 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (d5b21a4745a8403561aa2bd7f71b7194)] -> link text: Desktops]
+2024-06-26 00:06:773 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (d5b21a4745a8403561aa2bd7f71b7194)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:474 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:376 INFO  DesktopsPage :312 - Clicking on £Pound Sterling on top of page [[ChromeDriver: chrome on windows (53fc76ece21b73a61100f8f3ef57984a)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-06-26 00:06:536 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (53fc76ece21b73a61100f8f3ef57984a)] -> link text: Desktops]
+2024-06-26 00:06:727 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (53fc76ece21b73a61100f8f3ef57984a)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:744 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:737 INFO  DesktopsPage :312 - Clicking on £Pound Sterling on top of page [[ChromeDriver: chrome on windows (e1038cbce12da915f73a8ac288652601)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-06-26 00:06:887 INFO  TopMenuPage :60 - click on desktop [[ChromeDriver: chrome on windows (e1038cbce12da915f73a8ac288652601)] -> link text: Desktops]
+2024-06-26 00:06:988 INFO  DesktopsPage :139 - Sort Name (Z - A) By Position NameZtoA[[ChromeDriver: chrome on windows (e1038cbce12da915f73a8ac288652601)] -> xpath: //select[@id='input-sort']]
+2024-06-26 00:06:122 INFO  ManageBrowser :31 - Chrome Browser Launch.....
+2024-06-26 00:06:160 INFO  MyAccountsPage :105 - click On MyAccount Link [[ChromeDriver: chrome on windows (33f9d70e28925567192e5e2199cc7a18)] -> xpath: //span[contains(text(),'My Account')]]
